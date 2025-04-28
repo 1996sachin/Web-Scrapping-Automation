@@ -34,9 +34,11 @@ This project automatically scrapes job listings from websites and sends daily em
 
 ![image](https://github.com/user-attachments/assets/a3340733-ae3a-4540-bb0a-2518335eff6b)
 
+
 ## **Screenshot of Mail Automation**
 
 ![image](https://github.com/user-attachments/assets/ecf9beea-77bd-482a-9d41-ee35df330611)
+
 
 ## **Excel Data Sheets That Are Detected**
 
