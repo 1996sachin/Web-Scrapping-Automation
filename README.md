@@ -28,14 +28,18 @@ This project automatically scrapes job listings from websites and sends daily em
 ## 📧 Important
 - Update your Gmail credentials carefully in the script.
 - Allow "less secure apps" access or create an app password.
+  
 
-##Running the Script
+## **Running the Script**
+
 ![image](https://github.com/user-attachments/assets/a3340733-ae3a-4540-bb0a-2518335eff6b)
 
-##Screenshot of Mail Automation
+## **Screenshot of Mail Automation**
+
 ![image](https://github.com/user-attachments/assets/ecf9beea-77bd-482a-9d41-ee35df330611)
 
-##Excel data sheets that are detected
+## **Excel Data Sheets That Are Detected**
+
 ![image](https://github.com/user-attachments/assets/8a432d90-959f-4029-a979-ced652f0466d)
 
 
